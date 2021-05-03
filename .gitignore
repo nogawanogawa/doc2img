@@ -1,0 +1,10 @@
+
+data/
+
+.DS_Store
+
+web/__pycache__/
+
+post_cmd.txt
+
+sample2.pdf
